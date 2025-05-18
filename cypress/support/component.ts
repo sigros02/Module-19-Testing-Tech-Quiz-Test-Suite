@@ -1,5 +1,6 @@
 // filepath: cypress/support/component.ts
-import { mount } from "cypress/react18";
+
+import { mount } from "cypress/react";
 
 // Augment the Cypress namespace to include type definitions for
 // your custom command.
